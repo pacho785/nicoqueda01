@@ -33,7 +33,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.89",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
     {"id":{"name":"quieto_spr","path":"sprites/quieto_spr/quieto_spr.yy",},},
@@ -46,6 +46,7 @@
     {"id":{"name":"suelo_spr","path":"sprites/suelo_spr/suelo_spr.yy",},},
     {"id":{"name":"sol_obj","path":"objects/sol_obj/sol_obj.yy",},},
     {"id":{"name":"coin_obj","path":"objects/coin_obj/coin_obj.yy",},},
+    {"id":{"name":"CONTADOR_obj","path":"objects/CONTADOR_obj/CONTADOR_obj.yy",},},
     {"id":{"name":"nube_obj","path":"objects/nube_obj/nube_obj.yy",},},
     {"id":{"name":"suelo_obj","path":"objects/suelo_obj/suelo_obj.yy",},},
     {"id":{"name":"Walk_spr","path":"sprites/Walk_spr/Walk_spr.yy",},},
@@ -55,6 +56,7 @@
     {"id":{"name":"arbol_obj","path":"objects/arbol_obj/arbol_obj.yy",},},
     {"id":{"name":"HART_obj","path":"objects/HART_obj/HART_obj.yy",},},
     {"id":{"name":"quieto_obj","path":"objects/quieto_obj/quieto_obj.yy",},},
+    {"id":{"name":"font_generic","path":"fonts/font_generic/font_generic.yy",},},
     {"id":{"name":"cielo_sprite","path":"sprites/cielo_sprite/cielo_sprite.yy",},},
     {"id":{"name":"run_obj","path":"objects/run_obj/run_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

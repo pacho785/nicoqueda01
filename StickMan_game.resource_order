@@ -28,6 +28,7 @@
     {"name":"suelo_spr","order":2,"path":"sprites/suelo_spr/suelo_spr.yy",},
     {"name":"sol_obj","order":8,"path":"objects/sol_obj/sol_obj.yy",},
     {"name":"coin_obj","order":9,"path":"objects/coin_obj/coin_obj.yy",},
+    {"name":"CONTADOR_obj","order":11,"path":"objects/CONTADOR_obj/CONTADOR_obj.yy",},
     {"name":"nube_obj","order":1,"path":"objects/nube_obj/nube_obj.yy",},
     {"name":"Walk_spr","order":2,"path":"sprites/Walk_spr/Walk_spr.yy",},
     {"name":"arbol_spr","order":11,"path":"sprites/arbol_spr/arbol_spr.yy",},
