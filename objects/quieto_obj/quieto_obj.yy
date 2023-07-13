@@ -2,12 +2,15 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "quieto_obj",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ANIMACION",
+    "path": "folders/Objects/ANIMACION.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,7 +32,7 @@
   ],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
     "name": "quieto_spr",
     "path": "sprites/quieto_spr/quieto_spr.yy",
