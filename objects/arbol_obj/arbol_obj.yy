@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "ANIMACION",
+    "path": "folders/Objects/ANIMACION.yy",
   },
   "parentObjectId": null,
   "persistent": false,

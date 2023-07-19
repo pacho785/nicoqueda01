@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Colisions",
+    "path": "folders/Objects/Colisions.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,8 +27,8 @@
   "physicsShapePoints": [
     {"x":0.0,"y":0.0,},
     {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
+    {"x":64.0,"y":25.0,},
+    {"x":0.0,"y":25.0,},
   ],
   "physicsStartAwake": true,
   "properties": [],

@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "sol_spr",
   "bbox_bottom": 59,
-  "bbox_left": 3,
-  "bbox_right": 58,
+  "bbox_left": 5,
+  "bbox_right": 60,
   "bbox_top": 3,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "ANimacion",
+    "path": "folders/Sprites/ANimacion.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
