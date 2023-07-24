@@ -1,5 +1,5 @@
 with(other) { 
-	image_blend = c_maroon;
+	sprite_index = fuego_spr;
 
 }
 depth = -y;
