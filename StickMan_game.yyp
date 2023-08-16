@@ -63,6 +63,7 @@
     {"id":{"name":"coin_obj","path":"objects/coin_obj/coin_obj.yy",},},
     {"id":{"name":"Obj_letrero","path":"objects/Obj_letrero/Obj_letrero.yy",},},
     {"id":{"name":"CONTADOR_obj","path":"objects/CONTADOR_obj/CONTADOR_obj.yy",},},
+    {"id":{"name":"scr_get_imput_gml","path":"scripts/scr_get_imput_gml/scr_get_imput_gml.yy",},},
     {"id":{"name":"nube_obj","path":"objects/nube_obj/nube_obj.yy",},},
     {"id":{"name":"suelo_obj","path":"objects/suelo_obj/suelo_obj.yy",},},
     {"id":{"name":"Walk_spr","path":"sprites/Walk_spr/Walk_spr.yy",},},
