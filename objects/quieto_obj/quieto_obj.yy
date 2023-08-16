@@ -38,6 +38,9 @@
     "name": "quieto_spr",
     "path": "sprites/quieto_spr/quieto_spr.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "quieto_spr",
+    "path": "sprites/quieto_spr/quieto_spr.yy",
+  },
   "visible": true,
 }
