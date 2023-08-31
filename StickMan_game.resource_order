@@ -48,7 +48,7 @@
     {"name":"CONTADOR_obj","order":3,"path":"objects/CONTADOR_obj/CONTADOR_obj.yy",},
     {"name":"nube_obj","order":1,"path":"objects/nube_obj/nube_obj.yy",},
     {"name":"Obj_palmera","order":10,"path":"objects/Obj_palmera/Obj_palmera.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Otono","order":1,"path":"rooms/Otono/Otono.yy",},
     {"name":"arbol_spr","order":3,"path":"sprites/arbol_spr/arbol_spr.yy",},
     {"name":"Obj_go_to_room2","order":1,"path":"objects/Obj_go_to_room2/Obj_go_to_room2.yy",},
     {"name":"Obj_over","order":1,"path":"objects/Obj_over/Obj_over.yy",},
@@ -66,6 +66,7 @@
     {"name":"Obj_ferb","order":13,"path":"objects/Obj_ferb/Obj_ferb.yy",},
     {"name":"obj_muerte","order":2,"path":"objects/obj_muerte/obj_muerte.yy",},
     {"name":"Obj_enidn","order":2,"path":"objects/Obj_enidn/Obj_enidn.yy",},
+    {"name":"Primavera","order":3,"path":"rooms/Primavera/Primavera.yy",},
     {"name":"Obj_sol_gafas","order":8,"path":"objects/Obj_sol_gafas/Obj_sol_gafas.yy",},
   ],
 }
