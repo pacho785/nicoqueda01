@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_enidn",
+  "name": "Obj_goo_to_primavera",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"quieto_obj","path":"objects/quieto_obj/quieto_obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
