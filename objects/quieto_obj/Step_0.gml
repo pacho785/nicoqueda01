@@ -24,9 +24,9 @@ else
 if place_free(x,y+1)
 {
 	gravity=1;
-}
+}<   
 else{
-	gravity = - 0;
+	gravity = 0;
 }
 if vspeed >= 15 {vspeed = 15;}//limitador de vloiad vertical
 #endregion
